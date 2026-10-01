@@ -1,5 +1,5 @@
 {
   "sistema_activo": true,
-  "modo_prueba": true,
+  "modo_prueba": false,
   "mensaje_bloqueo": "El servicio Shadow Charge ha sido desactivado por el desarrollador."
 }
