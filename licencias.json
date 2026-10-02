@@ -1,5 +1,10 @@
 {
   "sistema_activo": true,
-  "modo_prueba": true,
-  "mensaje_bloqueo": "El servicio Shadow Charge ha sido desactivado por el desarrollador."
+  "modo_prueba": false,
+  "mensaje_bloqueo": "El servicio Shadow Charge ha sido desactivado por el desarrollador.",
+  "gemini_api_keys": [
+    "QVEuQWI4Uk42S0NockIzaFg2Q2J0NGV6VU5FMEJDZHVlQ21uWHAzZ1Nla1RoczNZQkQ3bGc=",
+    "QVEuQWI4Uk42SWtxNlV2R0lqY1BfZDloYk16M3NSMDBCZldPWjA0TXhGRGNLdENkZzhDNVE=",
+    "QVEuQWI4Uk42SWRaTW1OekFhVWFIOE9EZ2JXUTBRN1Q4RHQ0ZjJxMkdoZjhFeW9TZGI4bGc="
+  ]
 }
